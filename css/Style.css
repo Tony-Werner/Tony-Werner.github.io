@@ -1,0 +1,149 @@
+@import url("https://netdna.bootstrapcdn.com/font-awesome/4.1.0/css/font-awesome.min.css");
+.rob-reg {
+  font-family: 'Roboto';
+  font-weight: 400;
+}
+.rob-bold {
+  font-family: 'Roboto';
+  font-weight: 500;
+}
+.rob-bold {
+  font-family: 'Roboto';
+  font-weight: 900;
+}
+.pac-reg {
+  font-family: 'Pacifico';
+  font-weight: 400;
+}
+.mic-reg {
+  font-family: 'Michroma';
+  font-weight: 400;
+}
+header {
+  background-color: #334960;
+  height: 100vh;
+  min-height: 960px;
+}
+section {
+  background-color: #32AC97;
+  min-height: 1000px;
+  padding-bottom: 100px;
+}
+footer {
+  height: 100vh;
+  background-color: #3F9FC9;
+}
+main {
+  background-color: #334960;
+  text-align: center;
+}
+.menu {
+  background-color: #334960;
+  padding-top: 10px;
+  padding-bottom: 10px;
+  position: fixed;
+  z-index: 10;
+}
+.menu-logo {
+  font-family: 'Pacifico';
+  font-weight: 400;
+  font-size: 38px;
+  color: #fff;
+}
+.menu-point {
+  text-align: center;
+  font-size: 24px;
+  margin-top: 20px;
+}
+.menu-point a {
+  padding-left: 20px;
+  padding-right: 20px;
+  color: #32AC97;
+}
+.main-info {
+  margin-top: 300px;
+}
+.main-info p {
+  text-align: center;
+  font-size: 62px;
+  color: #fff;
+}
+.main-text {
+  padding-top: 40px;
+  padding-bottom: 40px;
+  margin-top: 200px;
+  background-color: #1E1E1E;
+  font-family: 'Michroma';
+  font-weight: 400;
+  color: #fff;
+  text-align: center;
+}
+.main-text-one {
+  font-size: 24px;
+}
+.main-text-two {
+  font-size: 18px;
+  margin-left: 350px;
+}
+.qwerty {
+  text-align: center;
+  margin-top: 100px;
+  margin-bottom: 100px;
+  color: #fff;
+  font-weight: 500;
+  font-family: 'Roboto';
+  font-weight: 900;
+}
+.qwerty h1 {
+  font-size: 48px;
+}
+.info {
+  padding: 0;
+  padding-left: 20px;
+  padding-right: 20px;
+  margin-top: 40px;
+  height: 100%;
+}
+.info-lin {
+  webkit-transition: all 0.7s ease;
+  -o-transition: all 0.7s ease;
+  transition: all 0.7s ease;
+  display: inline-block;
+  position: absolute;
+  width: 10%;
+  height: 100%;
+  background: linear-gradient(to right, #9acd32 15%, #32ac97 25%);
+}
+.info-text {
+  padding: 0;
+  font-size: 16px;
+}
+.info-text p {
+  margin-left: 15px;
+  margin-top: 30px;
+}
+.info-logo {
+  padding: 0;
+}
+.info-logo img {
+  height: 90px;
+}
+.info:hover span {
+  width: 100%;
+  background: linear-gradient(to right, #9acd32 15%, #32ac97 25%);
+}
+.contact-info {
+  margin: auto;
+  text-align: center;
+  font-size: 48px;
+  margin-top: 200px;
+}
+.contact-info p {
+  font-size: 24px;
+}
+.contact-info a {
+	text-align: center;
+	display: block;
+	color: #333;
+  font-size: 24px;
+}
