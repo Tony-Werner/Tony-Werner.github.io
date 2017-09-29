@@ -43,6 +43,7 @@ main {
   padding-top: 10px;
   padding-bottom: 10px;
   position: fixed;
+  display: inline;
   z-index: 10;
 }
 .menu-logo {
