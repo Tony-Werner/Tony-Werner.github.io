@@ -26,8 +26,6 @@ header {
 }
 section {
   background-color: #32AC97;
-  /*min-height: 1000px;
-  padding-bottom: 100px;*/
   height: 100vh;
   min-height: 1000px;
 }
