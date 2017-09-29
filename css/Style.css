@@ -21,8 +21,7 @@
 }
 header {
   background-color: #334960;
-  height: 100vh;
-  min-height: 960px;
+  height: 100%;
 }
 section {
   background-color: #32AC97;
