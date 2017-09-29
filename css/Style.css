@@ -43,7 +43,6 @@ main {
   padding-top: 10px;
   padding-bottom: 10px;
   position: fixed;
-  display: inline;
   z-index: 10;
 }
 .menu-logo {
@@ -86,8 +85,7 @@ main {
 }
 .main-text-two {
   font-size: 18px;
-  /*margin-left: 350px;*/
-  text-align: right;
+  margin-left: 350px;
 }
 .qwerty {
   text-align: center;
