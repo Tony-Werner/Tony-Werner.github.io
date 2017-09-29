@@ -82,10 +82,12 @@ main {
 }
 .main-text-one {
   font-size: 24px;
+  text-align: center;
 }
 .main-text-two {
   font-size: 18px;
-  margin-left: 350px;
+  /*margin-left: 350px;*/
+  text-align: right;
 }
 .qwerty {
   text-align: center;
