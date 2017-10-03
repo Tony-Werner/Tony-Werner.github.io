@@ -21,6 +21,8 @@
 }
 header {
   background-color: #334960;
+  height: 100vh;
+  min-height: 500px;
 }
 section {
   background-color: #32AC97;
@@ -28,6 +30,9 @@ section {
 }
 footer {
   background-color: #3F9FC9;
+  height: 100vh;
+  min-height: 500px;
+
 }
 main {
   background-color: #334960;
