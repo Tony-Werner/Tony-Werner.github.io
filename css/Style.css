@@ -26,13 +26,12 @@ header {
 }
 section {
   background-color: #32AC97;
-  padding-bottom: 20px;
+  padding-bottom: 50px;
 }
 footer {
   background-color: #3F9FC9;
   height: 100vh;
   min-height: 500px;
-
 }
 main {
   background-color: #334960;
@@ -147,4 +146,37 @@ main {
 	display: block;
 	color: #333;
   font-size: 24px;
+}
+@media (min-width: 0px) and (max-width: 480px) {
+.contact-info {
+  margin: auto;
+  text-align: center;
+  font-size: 48px;
+  margin-top: 50px;
+}
+}
+
+@media (min-width: 481px) and (max-width: 767px) {
+.contact-info {
+  margin-top: 50px;
+} 
+}
+@media (min-width: 768px) and (max-width: 991px) {
+
+}
+@media (min-width: 992px) and (max-width: 1199px) {
+  .contact-info {
+  font-size: 38px;
+}
+.contact-info p {
+  font-size: 18px;
+}
+.contact-info a {
+
+  font-size: 18px;
+}
+}
+@media (min-widht: 1200px) and (max-width: 1600px) {
+}
+@media (min-width: 1601px) {
 }
